@@ -6,7 +6,6 @@ arch:
 - aarch64
 hassio_api: true
 auth_api: true
-host_network: true
 ingress: true
 ingress_port: 0
 panel_icon: mdi:chip

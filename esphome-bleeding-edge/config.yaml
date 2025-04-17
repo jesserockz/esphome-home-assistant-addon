@@ -33,7 +33,7 @@ init: false
 startup: services
 name: ESPHome Device Builder (bleeding-edge)
 panel_title: ESPHome Builder (bleeding-edge)
-version: 2025.5.0-dev20250416-jesserockz-2025-054
+version: 2025.5.0-dev20250417-jesserockz-2025-054
 slug: esphome-bleeding-edge
 description: Bleeding edge version of ESPHome Device Builder
 image: ghcr.io/esphome/esphome-hassio
